@@ -1,0 +1,14 @@
+{
+    "token": "",
+    "prefix": "!",
+    "embedcolor": "#ffcbdb",
+    "emojiticket": "🎫",
+    "idserver": "id do servidor",
+    "topic": "id da categoria",
+    "perm": ["id do cargo1", "id do cargo13", "id do cargo12", "MUDE TAMBÉM NO INTERACTIONCREATE LINHA 48"],
+    "idlog": "id de logs kk",
+    "sorteiocargo": "ID DO CARGO DE NOTF SORTEIO",
+    "parceriacargo": "ID DO CARGO DE NOTF PARCERIA",
+    "atualizacoescargo": "ID DO CARGO DE NOTF ATUALIZACOES"
+
+}
